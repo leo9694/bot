@@ -1,0 +1,5 @@
+('c:\\users\\leo_pc\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna-2.10-py3.9.egg',
+ None,
+ {'*.py', '*.pyc', '*.pyw', 'EGG-INFO', '*.cp39-win_amd64.pyd', '*.pyd'},
+ 'DATA',
+ [])
